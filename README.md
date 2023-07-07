@@ -1,21 +1,5 @@
 # Process_Automation_LLM
 
-> Different Paradigms of Process Automation
-
-1. Robotic Process Automation (RPA): LLMs can automate rule-based tasks involving natural language understanding and generation, enabling tasks like customer support interactions and sentiment analysis.
-    
-2. Business Process Management (BPM): LLMs integrated into BPM frameworks automate language-intensive processes, such as document analysis, contract management, and semantic search.
-    
-3. Cognitive Process Automation (CPA): LLMs enable cognitive automation by handling language comprehension, context-based decision-making, and text generation tasks in applications like chatbots or virtual assistants.
-    
-4. Intelligent Document Processing (IDP): LLMs enhance IDP by extracting meaningful information from unstructured documents, and automating tasks like document classification, entity recognition, and data extraction.
-    
-5. Decision Automation: LLMs automate decisions by analyzing textual data, understanding context, and generating recommendations, such as credit risk assessment or automated decision-making systems.
-    
-6. Integration Platform as a Service (iPaaS): LLMs integrated into iPaaS solutions assist in data integration, cleansing, and enrichment, particularly for textual data.
-    
-7. Event-driven Automation: LLMs process real-time textual data from events like social media feeds or news articles, enabling automated actions, trend identification, or sentiment analysis.
-
 > Use Cases for LLM-driven Automation for Enterprises
 
 1. Customer Support Automation: LLMs can be utilized to automate customer support interactions through chatbots or virtual assistants. They can understand customer queries, provide relevant information, and assist with common inquiries, improving response times and customer satisfaction.
